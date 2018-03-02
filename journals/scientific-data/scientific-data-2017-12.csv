@@ -1,0 +1,97 @@
+﻿Repository Name;Abbreviation;Repository URL;fairsharing URL;re3data entry URL;Type of repository
+AEKOS - TERN Ecoinformatics;AEKOS;http://www.aekos.org.au/;https://fairsharing.org/biodbcore-000783 ;https://www.re3data.org/repository/r3d100011397;Earth and environmental sciences
+Archaeology Data Service;ADS;http://archaeologydataservice.ac.uk/;;https://www.re3data.org/repository/r3d100000006;Social sciences
+ArrayExpress;;http://www.ebi.ac.uk/arrayexpress/;https://fairsharing.org/biodbcore-000305;https://www.re3data.org/repository/r3d100010222;Biological sciences:omics
+Australian Antarctic Data Centre;AADC;https://www1.data.antarctica.gov.au;;https://www.re3data.org/repository/r3d100000038;Earth and environmental sciences
+Australian Ocean Data Network;AODN;http://portal.aodn.org.au;;https://www.re3data.org/repository/r3d100010914;Earth and environmental sciences
+Beilstein-Institut, STRENDA;;http://www.strenda-db.org;https://fairsharing.org/biodbcore-000757;https://www.re3data.org/repository/r3d100012329;Chemistry & chemical biology
+Biological General Repository for Interaction Datasets;BioGRID;http://thebiogrid.org/;https://fairsharing.org/biodbcore-000495;https://www.re3data.org/repository/r3d100010350;Biological sciences:omics
+Biological Magnetic Resonance Data Bank;BMRB;http://www.bmrb.wisc.edu/;https://fairsharing.org/biodbcore-000584;https://www.re3data.org/repository/r3d100010191;Biological sciences:molecular & supramolecular structure
+BioModels Database;;http://biomodels.net/;https://fairsharing.org/biodbcore-000306;https://www.re3data.org/repository/r3d100010789;Biological sciences: mathematical & modelling resources
+British Geological Survey;BGS;http://www.bgs.ac.uk/data/home.html;;https://www.re3data.org/repository/r3d100010916;Earth and environmental sciences
+caNanoLab;;http://cananolab.nci.nih.gov/caNanoLab/;https://fairsharing.org/biodbcore-000427;https://www.re3data.org/repository/r3d100010574;Chemistry & chemical biology
+ChEMBL;;https://www.ebi.ac.uk/chembl/;https://fairsharing.org/biodbcore-000015;https://www.re3data.org/repository/r3d100010539;Chemistry & chemical biology
+ClinicalTrials.gov;;http://clinicaltrials.gov/;https://fairsharing.org/biodbcore-000470;https://www.re3data.org/repository/r3d100010211;Health sciences
+Coherent X-ray Imaging Data Bank;CXIDB;http://www.cxidb.org/;https://fairsharing.org/biodbcore-000624;https://www.re3data.org/repository/r3d100011554;Biological sciences:molecular & supramolecular structure
+Crystallography Open Database;COD;http://www.crystallography.net/;https://fairsharing.org/biodbcore-000016;https://www.re3data.org/repository/r3d100010213;Biological sciences:molecular & supramolecular structure
+Database of Genomic Variants Archive;DGVa;http://www.ebi.ac.uk/dgva/;https://fairsharing.org/biodbcore-000628;https://www.re3data.org/repository/r3d100010814;Biological sciences: nucleic acid sequence
+Database of Interacting Proteins;DIP;http://dip.doe-mbi.ucla.edu/dip/Main.cgi;https://fairsharing.org/biodbcore-000558;https://www.re3data.org/repository/r3d100010670;Biological sciences:omics
+dbGAP;;http://www.ncbi.nlm.nih.gov/gap;https://fairsharing.org/biodbcore-000462;https://www.re3data.org/repository/r3d100010788;Biological sciences:omics
+dbSNP;;http://www.ncbi.nlm.nih.gov/snp;https://fairsharing.org/biodbcore-000438;https://www.re3data.org/repository/r3d100010652;Biological sciences: nucleic acid sequence
+dbVar;;http://www.ncbi.nlm.nih.gov/dbvar/;https://fairsharing.org/biodbcore-000463;https://www.re3data.org/repository/r3d100010786;Biological sciences: nucleic acid sequence
+DNA DataBank of Japan;DDBJ;http://www.ddbj.nig.ac.jp/;https://fairsharing.org/biodbcore-000027;https://www.re3data.org/repository/r3d100010218;Biological sciences: nucleic acid sequence
+Dryad Digital Repository  ;;http://datadryad.org/;https://fairsharing.org/biodbcore-000464;https://www.re3data.org/repository/r3d100000044;General science
+EarthChem;;http://www.earthchem.org/;;https://www.re3data.org/repository/r3d100010412;Earth and environmental sciences
+EBI Metagenomics;;http://www.ebi.ac.uk/metagenomics;https://fairsharing.org/biodbcore-000599;https://www.re3data.org/repository/r3d100011192;Biological sciences: nucleic acid sequence
+EMDataBank;EMDB;http://www.emdatabank.org/;https://fairsharing.org/biodbcore-000596;https://www.re3data.org/repository/r3d100010882;Biological sciences:molecular & supramolecular structure
+Environmental Data Initiative;EDI;https://portal.edirepository.org/nis;https://fairsharing.org/biodbcore-000634;https://www.re3data.org/repository/r3d100010272;Earth and environmental sciences
+Eukaryotic Pathogen Database Resources;EuPathDB;http://eupathdb.org/eupathdb/;https://fairsharing.org/biodbcore-000344;https://www.re3data.org/repository/r3d100011557;Biological sciences:organism-focused resources
+European Nucleotide Archive;ENA;http://www.ebi.ac.uk/ena/;https://fairsharing.org/biodbcore-000310;https://www.re3data.org/repository/r3d100010527;Biological sciences: nucleic acid sequence
+European Variation Archive;EVA;http://www.ebi.ac.uk/EVA;https://fairsharing.org/biodbcore-000627;https://www.re3data.org/repository/r3d100011553;Biological sciences: nucleic acid sequence
+figshare;;http://figshare.com/;https://fairsharing.org/biodbcore-000303;https://www.re3data.org/repository/r3d100010066;General science
+FlowRepository;;https://flowrepository.org/;https://fairsharing.org/biodbcore-000184;https://www.re3data.org/repository/r3d100011280;Biological sciences:cytometry & immunology
+FlyBase;;http://flybase.org/;https://fairsharing.org/biodbcore-000037;https://www.re3data.org/repository/r3d100010591;Biological sciences:organism-focused resources
+Functional Connectomes Project International Neuroimaging Data-Sharing Initiative;FCP/INDI;http://fcon_1000.projects.nitrc.org/;https://fairsharing.org/biodbcore-000625;https://www.re3data.org/repository/r3d100011555;Biological sciences: neuroscience
+G-Node;GIN;https://web.gin.g-node.org/;https://fairsharing.org/biodbcore-001008;https://www.re3data.org/repository/r3d100012439;Biological sciences: neuroscience
+GenBank;;http://www.ncbi.nlm.nih.gov/genbank/;https://fairsharing.org/biodbcore-000001;https://www.re3data.org/repository/r3d100010528;Biological sciences: nucleic acid sequence
+Gene Expression Omnibus;GEO;http://www.ncbi.nlm.nih.gov/geo/;https://fairsharing.org/biodbcore-000441;https://www.re3data.org/repository/r3d100010283;Biological sciences:omics
+GenomeRNAi;;http://www.genomernai.org/;https://fairsharing.org/biodbcore-000164;https://www.re3data.org/repository/r3d100011089;Biological sciences:omics
+Harvard Dataverse;;http://dataverse.harvard.edu;;https://www.re3data.org/repository/r3d100010051;Social sciences
+Harvard Dataverse;;http://dataverse.harvard.edu;;https://www.re3data.org/repository/r3d100010051;General science
+ImmPort;;www.immport.org;https://fairsharing.org/biodbcore-000660;https://www.re3data.org/repository/r3d100012529;Biological sciences:cytometry & immunology
+Influenza Research Database;;http://www.fludb.org/;https://fairsharing.org/biodbcore-000183;https://www.re3data.org/repository/r3d100011558;Biological sciences:organism-focused resources
+IntAct;;http://www.ebi.ac.uk/intact/;https://fairsharing.org/biodbcore-000054;https://www.re3data.org/repository/r3d100010671;Biological sciences:omics
+Integrated Taxonomic Information System;ITIS;http://www.itis.gov/;https://fairsharing.org/biodbcore-000597;https://www.re3data.org/repository/r3d100011213;Biological sciences:taxonomy & species diversity
+Japanese Genotype-phenotype Archive;JGA;http://trace.ddbj.nig.ac.jp/jga/index_e.html;https://fairsharing.org/biodbcore-000774;;Biological sciences:omics
+Kinetic Models of Biological Systems;KiMoSys;http://www.kimosys.org/;https://fairsharing.org/biodbcore-000631;https://www.re3data.org/repository/r3d100011562;Biological sciences: mathematical & modelling resources
+KNB: The Knowledge Network for Biocomplexity;KNB;https://knb.ecoinformatics.org/;https://fairsharing.org/biodbcore-000629;https://www.re3data.org/repository/r3d100010092;Biological sciences:taxonomy & species diversity
+Marine Geosciences Data System;MGDS;http://www.marine-geo.org/index.php;;https://www.re3data.org/repository/r3d100010273;Earth and environmental sciences
+MetaboLights;;http://www.ebi.ac.uk/metabolights/;https://fairsharing.org/biodbcore-000168;https://www.re3data.org/repository/r3d100011556;Biological sciences:omics
+MorphoBank.org;;http://www.morphobank.org/;https://fairsharing.org/biodbcore-000851;https://www.re3data.org/repository/r3d100010101;Biological sciences:taxonomy & species diversity
+Mouse Genome Informatics;MGI;http://www.informatics.jax.org/;https://fairsharing.org/biodbcore-000421;https://www.re3data.org/repository/r3d100010266;Biological sciences:organism-focused resources
+NASA Goddard Earth Sciences Data and Information Services Center ;GES DISC;http://disc.gsfc.nasa.gov/;;https://www.re3data.org/repository/r3d100000036;Earth and environmental sciences
+National Addiction & HIV Data Archive Program;NAHDAP;http://www.icpsr.umich.edu/icpsrweb/NAHDAP/index.jsp;https://fairsharing.org/biodbcore-000482;https://www.re3data.org/repository/r3d100010261;Health sciences
+National Database for Autism Research;NDAR;http://ndar.nih.gov/;https://fairsharing.org/biodbcore-000491;https://www.re3data.org/repository/r3d100010717;Health sciences
+National Database for Clinical Trials related to Mental Illness;NDCT;http://ndct.nimh.nih.gov/;;;Health sciences
+NCBI Assembly;;http://www.ncbi.nlm.nih.gov/assembly;;;Biological sciences: nucleic acid sequence
+NCBI PubChem BioAssay;;http://pubchem.ncbi.nlm.nih.gov/;https://fairsharing.org/biodbcore-000455;https://www.re3data.org/repository/r3d100010129;Biological sciences:omics
+NCBI PubChem BioAssay;;http://pubchem.ncbi.nlm.nih.gov/;https://fairsharing.org/biodbcore-000455;https://www.re3data.org/repository/r3d100010129;Chemistry & chemical biology
+NCBI PubChem Substance;;http://pubchem.ncbi.nlm.nih.gov/;https://fairsharing.org/biodbcore-000455;https://www.re3data.org/repository/r3d100010129;Chemistry & chemical biology
+NCBI Sequence Read Archive;SRA;http://www.ncbi.nlm.nih.gov/sra;https://fairsharing.org/biodbcore-000444;https://www.re3data.org/repository/r3d100010775;Biological sciences: nucleic acid sequence
+NCBI Taxonomy;;http://www.ncbi.nlm.nih.gov/taxonomy;https://fairsharing.org/bsg-000154;https://www.re3data.org/repository/r3d100010415;Biological sciences:taxonomy & species diversity
+NCBI Trace Archive;;http://www.ncbi.nlm.nih.gov/Traces/home/;https://fairsharing.org/biodbcore-000636;https://www.re3data.org/repository/r3d100010905;Biological sciences: nucleic acid sequence
+NERC Data Centres;NERC;http://www.nerc.ac.uk/research/sites/data/;;https://www.re3data.org/repository/r3d100010558;Earth and environmental sciences
+NeuroMorpho.org;;http://neuromorpho.org/neuroMorpho/index.jsp;https://fairsharing.org/biodbcore-000410;https://www.re3data.org/repository/r3d100010107;Biological sciences: neuroscience
+NOAA National Centers for Environmental Information;NCEI;http://www.ncei.noaa.gov/;;https://www.re3data.org/repository/r3d100010286;Earth and environmental sciences
+NoMaD Repository;NoMaD;http://nomad-repository.eu/;;https://www.re3data.org/repository/r3d100011583;Physics, astrophysics & astronomy
+Oak Ridge National Laboratory Distributed Active Archive Center;ORNL DAAC;http://daac.ornl.gov/;;https://www.re3data.org/repository/r3d100000037;Earth and environmental sciences
+Open Science Framework;OSF;https://osf.io/;https://fairsharing.org/biodbcore-000655;https://www.re3data.org/repository/r3d100011137;Social sciences
+Open Science Framework;OSF;https://osf.io/;https://fairsharing.org/biodbcore-000655;https://www.re3data.org/repository/r3d100011137;General science
+OpenfMRI;;http://openfmri.org/;https://fairsharing.org/biodbcore-000620;https://www.re3data.org/repository/r3d100010924;Biological sciences: neuroscience
+openICSPR;;https://www.openicpsr.org/;;https://www.re3data.org/repository/r3d100010255;Social sciences
+PANGAEA;;http://www.pangaea.de/;;https://www.re3data.org/repository/r3d100010134;Earth and environmental sciences
+PeptideAtlas;;http://www.peptideatlas.org/;https://fairsharing.org/biodbcore-000392;https://www.re3data.org/repository/r3d100010889;Biological sciences:omics
+PhysioNet;;http://physionet.org/;https://fairsharing.org/biodbcore-000488;https://www.re3data.org/repository/r3d100011561;Health sciences
+PRIDE Archive;;http://www.ebi.ac.uk/pride/;https://fairsharing.org/biodbcore-000325;https://www.re3data.org/repository/r3d100010137;Biological sciences:omics
+Protein Circular Dichroism Data Bank;PCDDB;http://pcddb.cryst.bbk.ac.uk/;https://fairsharing.org/biodbcore-000613;https://www.re3data.org/repository/r3d100010890;Biological sciences:molecular & supramolecular structure
+Rat Genome Database;RGD;http://rgd.mcw.edu/;https://fairsharing.org/biodbcore-000417;https://www.re3data.org/repository/r3d100010417;Biological sciences:organism-focused resources
+Reaction Database Standard Search Interface;;http://durpdg.dur.ac.uk/HEPDATA/REAC;;https://www.re3data.org/repository/r3d100010081;Physics, astrophysics & astronomy
+Research Domain Criteria Database;RDoCdb;http://rdocdb.nimh.nih.gov/;;;Health sciences
+SEANOE;;http://www.seanoe.org;https://fairsharing.org/biodbcore-000705;https://www.re3data.org/repository/r3d100011867;Earth and environmental sciences
+SICAS Medical Image Repository (formally Virtual Skeleton Database);SMIR;https://www.smir.ch/;https://fairsharing.org/biodbcore-000658;https://www.re3data.org/repository/r3d100011560;Health sciences
+SIMBAD Astronomical Database;;http://simbad.u-strasbg.fr/simbad/;;https://www.re3data.org/repository/r3d100010163;Physics, astrophysics & astronomy
+Structural Biology Data Grid;SBGrid;https://data.sbgrid.org/;https://fairsharing.org/biodbcore-000683;https://www.re3data.org/repository/r3d100011601;Biological sciences:molecular & supramolecular structure
+The Cancer Imaging Archive;;http://www.cancerimagingarchive.net/;https://fairsharing.org/biodbcore-000532;https://www.re3data.org/repository/r3d100011559;Health sciences
+The European Genome-phenome Archive;EGA;https://ega-archive.org/;https://fairsharing.org/biodbcore-000328;https://www.re3data.org/repository/r3d100011242;Biological sciences:omics
+The Global Biodiversity Information Facility;GBIF;http://www.gbif.org/;https://fairsharing.org/biodbcore-000635;https://www.re3data.org/repository/r3d100000039;Biological sciences:taxonomy & species diversity
+The Network Data Exchange (NDEx);NDEx;www.ndexbio.org;https://fairsharing.org/biodbcore-001016;;Biological sciences: mathematical & modelling resources
+UK Data Service - ReShare;;http://reshare.ukdataservice.ac.uk/;;https://www.re3data.org/repository/r3d100010230;Social sciences
+UK Solar System Data Centre;;http://www.ukssdc.ac.uk/;;https://www.re3data.org/repository/r3d100010714;Physics, astrophysics & astronomy
+UNAVCO, Inc.;UNAVCO;http://www.unavco.org/data/data.html;;https://www.re3data.org/repository/r3d100010872;Earth and environmental sciences
+UniProtKB;;http://www.uniprot.org;https://fairsharing.org/biodbcore-000544;https://www.re3data.org/repository/r3d100011521;Biological sciences:protein sequence
+VectorBase;;http://www.vectorbase.org/index.php;https://fairsharing.org/biodbcore-000588;https://www.re3data.org/repository/r3d100010880;Biological sciences:organism-focused resources
+World Data Center for Climate at DRKZ;WDCC;http://www.wdc-climate.de/;;https://www.re3data.org/repository/r3d100010299;Earth and environmental sciences
+Worldwide Protein Data Bank;wwPDB;http://wwpdb.org/;https://fairsharing.org/biodbcore-000511;https://www.re3data.org/repository/r3d100011104;Biological sciences:molecular & supramolecular structure
+Xenbase;;http://www.xenbase.org/common/;https://fairsharing.org/biodbcore-000556;https://www.re3data.org/repository/r3d100011331;Biological sciences:organism-focused resources
+Zebrafish Model Organism Database;ZFIN;http://zfin.org/;https://fairsharing.org/biodbcore-000575;https://www.re3data.org/repository/r3d100010421;Biological sciences:organism-focused resources
+Zenodo;;https://zenodo.org/;;https://www.re3data.org/repository/r3d100010468;General science
